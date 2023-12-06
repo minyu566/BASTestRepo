@@ -1,0 +1,7 @@
+ID,IDENTIFIER,TITLE,DESCRIPTION,AVAILABILITY,STORAGE_CAPACITY,CRITICALITV,PRICE,CURRENCY_CODE,SUPPLIER_ID,IMAGE_URL
+844ede5c-071e-34ed-907f-f99cb3a4693d,MC-CM-1003,Tea/Coffee-Mug,Robust high-quality ceramic mug for everyday use,100,1,3,12.99,USD,12726eec-165c-3713-a674-3d2fc4f5127f,https://example.com/mug.jpg
+64d40922-ea0d-30f9-9683-eb4448ee4c2e,MC-CH-1000,Coat Hangers,Set of high-quality hangers with coated surface, trouser bar - anti slip,50,2,2,19.99,USD,9655e5b6-bd8c-31ee-b94a-0651449721a0,https://example.com/hangers.jpg
+a6756d40-792e-34c9-8b2e-df3acb0c54b4,MC-CH-1001,Coat Hangers,Set of high-quality hangers with coated surface, trouser bar - anti slip,50,2,2,19.99,USD,9655e5b6-bd8c-31ee-b94a-0651449721a0,https://example.com/hangers.jpg
+37f028f0-1dd5-30ae-9cdd-a7f543e4d61d,MC-CH-1002,Wooden Coat Hangers - Pack of 5,Pack of 5 quality wooden hangers with trouser bar. Ideal for organizing your wardrobe.,75,3,1,24.99,USD,b91f077f-2086-3517-8244-d3b50835651b,https://example.com/wooden-hangers.jpg
+a376e380-00e8-3d90-ba9f-c332c2df0f28,MC-CH-1003,Designer Coat Hooks - Pack of 3,Pack of 3 designer coat hooks. Heavy-duty stainless steel construction.,30,1,2,14.99,USD,8b001df1-dab2-39a2-8b1a-89b6b445e237,https://example.com/designer-hooks.jpg
+fc16c43d-bb4e-30db-8b7e-98b3fdc7f0b9,MC-CH-1004,Vacuum Wall Hook - Pack of 6,Big suction cup with a diameter of 70mm, can load more than 5kg. Easy to install on various surfaces.,40,2,3,29.99,USD,3c7e6cbb-ea0f-35d2-a2ce-c85057a57916,https://example.com/vacuum-hook.jpg
