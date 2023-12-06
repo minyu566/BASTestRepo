@@ -39,6 +39,14 @@ modules:
     requires:
       - name: HANATestProject-db
 
+  - name: HANATestProject-db-deployer
+    type: hdb
+    path: gen/db
+    parameters:
+      buildpack: nodejs_buildpack
+    requires:
+      - name: HANATestProject-db
+
 resources:
   - name: HANATestProject-registry
     type: org.cloudfoundry.managed-service
@@ -65,3 +73,8 @@ resources:
     parameters:
       service: service-manager
       service-plan: container
+  - name: HANATestProject-db
+    type: com.sap.xs.hdi-container
+    parameters:
+      service: hana
+      service-plan: hdi-shared
